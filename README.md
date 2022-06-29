@@ -4,7 +4,7 @@ Automatización de pruebas de las diferentes interacciones (Crear, Consultar y E
 
 ## Herramientas implementadas
 * Serenity BDD
-* Srenity Rest
+* Serenity Rest
 * Cucumber
 * Junit
 
