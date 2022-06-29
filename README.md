@@ -20,7 +20,7 @@ Automatización de pruebas de las diferentes interacciones (Crear, Consultar y E
 ## Instalación
 * Tener el [JDK](https://www.oracle.com/co/java/technologies/javase/javase8-archive-downloads.html) Java Development Kit como minimo en la version 1.8
 * Tener configurado [Maven](https://maven.apache.org/download.cgi) para la compilación del proyecto.
-* Clonar el proyecto de su rama [main](https://github.com/dfmerchan2/DummyRestApiExample.git) ejecutando el siguiente comando
+* Clonar el proyecto de su rama [master](https://github.com/dfmerchan2/DummyRestApiExample.git) ejecutando el siguiente comando
 
 ## Especificaciones del reto tecnico
 * El ejercicio consta de poder realizar interacciones por medio de los Verbos comunes   que expone un Api rest y que puedas realizar todo el proceso que involucra   automatizar una de esas acciones necesarias para interactuar con Api.
